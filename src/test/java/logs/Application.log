@@ -1,0 +1,14 @@
+20/12/2016 17:21:37 devpinoyLogger Test Case: doSignIn Starts Running
+20/12/2016 17:21:45 devpinoyLogger Test Method: doLogin Starts Running
+20/12/2016 17:21:45 devpinoyLogger Test Method: goToProfile Starts Running
+20/12/2016 17:21:52 devpinoyLogger Test Method: goToFollowing Starts Running
+20/12/2016 17:21:53 devpinoyLogger Test Method: goToFollower Starts Running
+20/12/2016 17:21:53 devpinoyLogger Test Method: goToMoments Starts Running
+20/12/2016 17:21:55 devpinoyLogger Test Method: goToEditProfile Starts Running
+20/12/2016 17:21:55 devpinoyLogger Test Method: saveTheChanges Starts Running
+20/12/2016 17:21:55 devpinoyLogger Test Method: clickTweet Starts Running
+20/12/2016 17:21:56 devpinoyLogger Test Case: doSignIn Passed
+20/12/2016 17:21:56 devpinoyLogger Test Case: doTweet Starts Running
+20/12/2016 17:21:56 devpinoyLogger Test Method: WriteTweet Starts Running
+20/12/2016 17:22:17 devpinoyLogger Test Method: SubmitTweet Starts Running
+20/12/2016 17:22:17 devpinoyLogger Test Case: doTweet Passed

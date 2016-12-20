@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40791" started-at="2016-12-20T11:51:37Z" finished-at="2016-12-20T11:52:18Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="4" started-at="2016-12-20T11:51:37Z" finished-at="2016-12-20T11:51:37Z">
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="19091" started-at="2016-12-20T11:51:37Z" finished-at="2016-12-20T11:51:56Z">
+      <class name="automationFramework.TestSignIn">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestSignIn@e320068]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-20T17:21:37Z" finished-at="2016-12-20T17:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="doSignIn()[pri:0, instance:automationFramework.TestSignIn@e320068]" name="doSignIn" duration-ms="18644" started-at="2016-12-20T17:21:37Z" finished-at="2016-12-20T17:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSignIn -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:automationFramework.TestSignIn@e320068]" name="AfterMethod" is-config="true" duration-ms="442" started-at="2016-12-20T17:21:56Z" finished-at="2016-12-20T17:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- automationFramework.TestSignIn -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="21652" started-at="2016-12-20T11:51:56Z" finished-at="2016-12-20T11:52:18Z">
+      <class name="automationFramework.PostTweet">
+        <test-method status="PASS" signature="startTesting()[pri:0, instance:automationFramework.PostTweet@4232c52b]" name="startTesting" is-config="true" duration-ms="3771" started-at="2016-12-20T17:21:33Z" finished-at="2016-12-20T17:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTesting -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.PostTweet@4232c52b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-20T17:21:56Z" finished-at="2016-12-20T17:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="doTweet()[pri:0, instance:automationFramework.PostTweet@4232c52b]" name="doTweet" duration-ms="21389" started-at="2016-12-20T17:21:56Z" finished-at="2016-12-20T17:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTweet -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:automationFramework.PostTweet@4232c52b]" name="AfterMethod" is-config="true" duration-ms="261" started-at="2016-12-20T17:22:17Z" finished-at="2016-12-20T17:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="endScript()[pri:0, instance:automationFramework.PostTweet@4232c52b]" name="endScript" is-config="true" duration-ms="131" started-at="2016-12-20T17:22:18Z" finished-at="2016-12-20T17:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endScript -->
+      </class> <!-- automationFramework.PostTweet -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

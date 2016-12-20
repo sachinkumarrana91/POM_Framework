@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test1">
+    <classes>
+      <class name="automationFramework.Core"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Test2">
+    <classes>
+      <class name="automationFramework.TestSignIn"/>
+    </classes>
+  </test> <!-- Test2 -->
+  <test name="Test3">
+    <classes>
+      <class name="automationFramework.PostTweet"/>
+    </classes>
+  </test> <!-- Test3 -->
+</suite> <!-- Failed suite [Suite] -->
